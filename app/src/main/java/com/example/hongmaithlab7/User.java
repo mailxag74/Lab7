@@ -1,4 +1,4 @@
-package com.example.hophuocduysqlite;
+package com.example.hongmaithlab7;
 
 public class User {
     private int id;
